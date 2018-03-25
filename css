@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	
+	background: #2f2f2f;
+}
+
+.temp{
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20%;
+	white-space: nowrap;
+	line-height: normal;
+	text-align: center;
+	width: 657px;
+	height: 121px;
+	font-family: Vortice, Impact;
+	color: #000000;
+	font-size: 60px;
+}
+
+.copyright{
+	
+	position: fixed;
+	bottom: 0px;
+	right: 20px;
+}
